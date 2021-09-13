@@ -24,6 +24,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        //test
     }
 
     @IBAction func guessLetterButtonPressed(_ sender: UIButton)
