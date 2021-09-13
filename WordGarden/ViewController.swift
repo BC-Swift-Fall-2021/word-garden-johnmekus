@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var wordsGuessedLabel: UILabel!
-    @IBOutlet weak var wordsRemainingLabel: UILabel!
+    @IBOutlet weak var wordsLeftLabel: UILabel!
     @IBOutlet weak var wordsMissedLabel: UILabel!
     @IBOutlet weak var wordsInGameLabel: UILabel!
     @IBOutlet weak var wordBeingRevealedLabel: UILabel!
