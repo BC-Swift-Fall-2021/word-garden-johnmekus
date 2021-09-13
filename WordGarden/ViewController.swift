@@ -21,6 +21,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var flowerImageView: UIImageView!
     
     
+    //3.4 test
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         let text = guessedLetterTextField.text!
